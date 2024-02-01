@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    height: 100vh;
+    background-color: #fff4e3;
+    background-image: linear-gradient(43deg, #fff4e3 0%, #ffeccc 46%, #fcd07b 100%);
+}
+
+/* navigation */
+.headerContainer{
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(255, 255, 225, 0.723);
+    gap:2rem;
+    align-items:center ;
+    justify-content:space-around;
+}
+.logo{
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+}
+.companyName{
+    color: black;
+    font-weight: bold;
+    font-size: 1.45rem;
+    padding: 1rem;
+}
+.navBar{
+    gap:1.5rem;
+    padding: 1rem;
+}
+.nav-link{
+    color:rgb(96, 96, 96) ;
+    font-size: 1.4rem;
+    transform: color 0.1s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight:400;
+}
+.nav-link:hover{
+    color:rgb(52, 52, 159);
+    border-radius: 2rem;
+    background-color: rgb(246, 238, 198);
+}
+.login{
+    padding:0.2rem;
+}
+.signup{
+    margin-top:0.22rem;
+    border: none;
+    padding: 1rem;
+    color: rgb(0, 0, 2);
+    background-color: rgb(255, 224, 88);
+    border-radius: 1.5rem;
+}
+.signintext{
+    font-weight: bold;
+}
+.signup:hover{
+    background-color:rgb(248, 205, 95) ;
+}
