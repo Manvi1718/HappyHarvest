@@ -10,19 +10,36 @@ In India, where 10 million weddings occur annually, the wastage of surplus food 
 
 ## Project Highlights
 
-### 1. Statistics
+In our mission to combat food wastage, we present impactful statistics: 70% of served food nourishes people, reducing waste to 30%. India's 2023 Global Hunger Index (GHI) score of 28.7, though serious, marks improvement.
 
-- Out of every 100 units of food served, only 30% is wasted, leaving a substantial 70% to nourish people.
-- India's 2023 Global Hunger Index (GHI) score of 28.7, though serious, shows improvement from previous years.
+Happy Harvest efficiently packages surplus food for NGOs and orphanages, ensuring food security. Connect with us through an efficient Contact Us form, fostering collaboration for a hunger-free future. Join us in making a lasting impact!
 
-### 2. About Us
+  ## Project Glimpses
 
-- Happy Harvest serves as a dedicated platform to efficiently package and supply surplus food to NGOs and orphanages.
-- Our mission is to ensure food security for the less fortunate, making a lasting impact in the fight against hunger.
+   ### Home Page   
+   ![Home Page](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/27ead780-4df3-4df1-8cba-99b7372def82)
 
-### 3. Contact Us
+   Explore the heart of Happy Harvest, where our mission to combat food wastage and ensure food security comes to life.
 
-- Users can connect with Happy Harvest through a simple and efficient contact form, fostering collaboration towards a hunger-free future.
+   ### Login Page
+   ![Login Page](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/526e0c85-bcc8-44f5-b905-066aa09a4aa4)
+
+   Securely access your account and be part of the journey to make a positive impact on the world.
+
+   ### Donate Food
+   ![Donate Food](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/3db77be7-d8bb-41fc-a256-ea4f259b091b)
+
+   Contribute to reducing food wastage by donating food and supporting those in need.
+
+   ### Contact Us
+   ![Contact Us](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/e3d6c927-11ab-4bc6-88d1-a028c87c4d8a)
+
+   Connect with us through our Contact Us page, where we value your input, questions, and collaboration.
+
+   ### About Us
+   ![About Us](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/d1ca1645-d304-484c-a25c-5e4bb3fd3870)
+
+   Discover the roots of Happy Harvest, our mission, and the team working passionately to create a world without hunger.
 
 ## Project Structure
 
@@ -32,7 +49,6 @@ In India, where 10 million weddings occur annually, the wastage of surplus food 
 - **contact_us:** Contact Us page HTML, CSS files.
 - **Donate:** About Us page HTML, CSS files.
 - **Terms:** Contact Us page HTML, CSS files.
-
 
 ## Getting Started
 
