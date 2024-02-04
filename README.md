@@ -55,7 +55,7 @@ In India, where 10 million weddings occur annually, the wastage of surplus food 
 ## Project Contributors
 
 - Manvi Sharma
-- Mayank Sharma
+- Mayank Sharma 
 - Piyush Jain
 - Adit
 
