@@ -16,7 +16,7 @@ Happy Harvest efficiently packages surplus food for NGOs and orphanages, ensurin
 
   ## Project Glimpses
 
-### **WEBSITE**
+### **WEBSITE
 
  **Home Page**
 ![Home Page](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/27ead780-4df3-4df1-8cba-99b7372def82)
