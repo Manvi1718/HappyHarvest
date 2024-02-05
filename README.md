@@ -94,13 +94,14 @@ Discover the roots of Happy Harvest, our mission, and the team working passionat
 1. Place all project-related images in the `/static` directory.
 2. Update image references in the HTML and CSS files accordingly.
 
+## Figma UI/UX Prototype
+<a href="https://www.figma.com/file/NgrXLmiOKL13qCHRMueGfT/C0DES0UL?type=design&node-id=0%3A1&mode=design&t=Dom7o4XYUa08LqSt-1">Click here to open Figma file</a>
 ## Project Contributors
 
 - Manvi Sharma
 - Mayank Sharma 
 - Piyush Jain
 - Adit
-
 
 Feel free to explore the code, contribute, and join us in the mission to combat food wastage and ensure food security for all!
 
