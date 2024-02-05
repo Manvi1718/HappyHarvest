@@ -91,7 +91,7 @@ Discover the roots of Happy Harvest, our mission, and the team working passionat
 
 ## How to Add Project Images
 
-1. Place all project-related images in the `/images` directory.
+1. Place all project-related images in the `/static` directory.
 2. Update image references in the HTML and CSS files accordingly.
 
 ## Project Contributors
