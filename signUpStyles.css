@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background:url(./static/bgImg.png) no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2rem;
+}
+.header a:hover{
+    color: rgb(255, 187, 0);
+}
+.header a img{
+    width: 6rem;
+    height: auto;
+}
+.header a p{
+    font-size: 1.7rem;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    
+}
+.wrapper{
+    width: 420px;
+    background:transparent;
+    border: 2px solid rgba(225,225,225,0.2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+    margin-bottom: 20px;
+}
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+}
+.wrapper .input-box{
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+}
+.input-box input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    outline: none;
+    border: none;
+    border: 2px solid rgba(225,225,225,0.2);
+    border-radius: 40px;
+    color: #fff;
+    padding: 20px 45px 20px 20px ;
+}
+.input-box input::placeholder{
+    color: #fff;
+}
+.correct{
+    display: flex;
+    justify-content: center;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+}
+.correct label input{
+    accent-color: #fff;
+    margin-right: 3px;
+}
+
+.correct a{
+    color:#fff;
+    text-decoration: none;
+}
+.correct a:hover{
+    text-decoration: underline;
+}
+.btn{
+    width: 100%;
+    height: 45px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.wrapper .signUp-link{
+    font-size: 14.5px;
+    text-align: center;
+    margin-top: 20px 0 15px;
+}
+
+.signUp-link p a{
+    color:#fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+.signUp-link p a:hover{
+    text-decoration: underline;
+}

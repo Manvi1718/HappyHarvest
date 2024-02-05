@@ -1,0 +1,381 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #31373d;
+}
+
+/* navigation and header*/
+.headerContainer{
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    gap:2rem;
+    align-items:center ;
+    justify-content:space-around;
+}
+.logo{
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+}
+.companyName{
+    color: white;
+    font-weight: bold;
+    font-size: 2.3rem;
+    padding: 1rem;
+    padding-bottom: none;
+}
+.companyName:hover{
+    color:#fcd07b;
+}
+.navBar{
+    gap:1.5rem;
+    padding: 1rem;
+}
+.nav-link{
+    color:white ;
+    font-size: 1.4rem;
+    transform: color 0.1s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight:400;
+}
+.nav-link:hover{
+    color:#3a2700;
+    border-radius: 2rem;
+    background-color: rgb(255, 251, 233);
+}
+.login{
+    padding:0.2rem;
+}
+.signup{
+    margin-top:0.22rem;
+    border: none;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: rgb(0, 0, 2);
+    background-color: rgb(255, 255, 255);
+    border-radius: 1.5rem; 
+    border: 3px solid white;
+    transition:background-color 0.3s ;
+}
+.signintext{
+    font-weight: bold;
+    font-size: 1rem;
+}
+.signup:hover{
+    background:transparent;
+    border:3px solid white;
+    color: white;
+}
+.banner{
+    width: 100%;
+    height: 40rem;
+    position: relative;
+    overflow: hidden;
+}
+.slider{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+}
+#slideimg{
+    width: 100%;
+    height: 100%;
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    position: absolute;
+    top:0;
+}
+.headerText{
+    width: 70%;
+    margin:200px  auto 0;
+    text-align: center;
+    color: rgb(176, 176, 176);
+}
+.headerText p{
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 2.785rem;
+}
+
+/* Statistics Card */
+.statContainer{
+    width: 100%;
+
+    margin-top: 2rem;
+}
+.statHeading{
+    width: 68%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+.statHeading h2{
+    font-size: 2.2rem;
+    margin-bottom: 1.8rem;
+    margin-top: 1.5rem;
+    color: white;
+}
+.statHeading p{
+    font-size: 1rem;
+    width: 80%;
+    color:white;
+    text-align: center;
+}
+
+.statGrid{
+    width: 55%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin: auto;
+    row-gap: 2rem;
+    column-gap: 2rem;
+    margin-top: 2rem;
+}
+.statCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1.5rem;
+    gap:1rem;
+    height: auto;
+}
+.statCard p{
+    width: 67%;
+    font-size: 1.3rem;
+    color: #fff;
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+    text-align: center;
+}
+
+.statCard img{
+    width: 100%;
+    height: 100%;
+    padding: 2.5rem;
+    border-radius: 2rem;
+}
+
+.statCard:nth-child(2){
+    background-color: #ff6289;
+}
+.statCard:nth-child(3){
+    background-color: #4a90e2;
+}
+
+/* Review */
+
+.reviewContainer{
+    padding: 2rem;
+    margin: 0 auto;
+    max-width: 1280px;
+}
+.reviewContent{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+}
+.reviewTitle{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.reviewGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
+    gap:2rem;
+}
+.reviewCard{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(60, 60, 60);
+    border-radius: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 1.2rem;
+    gap:1rem;
+    background: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.reviewCard:hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border: 1px solid blue;
+}
+.reviewAvatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 8.3rem;
+}
+.reviewAvatar img{
+    height: 100%;
+    width: 100%;
+    
+}
+.reviewText{
+    font-size: 0.875rem;
+    color: #555;
+    text-align: center;
+}
+.reviewInfo{
+    text-align: center;
+}
+.reviewName{
+    font-size: 1rem;
+    color:#6366F1;
+    
+}
+.reviewDesc{
+    font-size: 0.875rem;
+    color: #777;
+    
+}
+
+.footerContainer{
+    width: 100%;
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45);
+}
+.upperFooter{
+    display: flex;
+    flex-direction: row;
+}
+.aboutUs{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-right: 1px solid white;
+}
+.aboutUs h1{
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 0.875rem;
+}
+.aboutUs p{
+    color: whitesmoke;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.Telephone{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 1rem;
+    padding-left: 6rem;
+    margin: 0.5rem;
+    border-right: 1px solid white;
+}
+.Telephone h1{
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+.Telephone p{
+    margin-top: 0.5rem;
+    color: whitesmoke;
+    font-size: 1rem;
+}
+.contactUs{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-right: 1px solid white;
+}
+.contactUs h1{
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+}
+
+.iconFlex{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5.2rem;
+}
+
+.mail{
+    width: 2rem;
+    height: 2rem;
+    margin-top: 0.6rem;
+    margin-right: 1rem;
+}
+.github{
+    width:3rem;
+    height: 3rem;
+}
+.mail img{
+    width: 100%;
+    height: 100%;
+}
+.github img{
+    width: 100%;
+    height: 100%;
+}
+
+.footerLogo img{
+    width: 7rem;
+    height: 6rem;
+    margin-left: 2.5rem;
+}
+.footerLogo h2{
+    color: white;
+    font-weight: 800;
+    font-size: 2rem;
+    margin-bottom: 0.8rem;
+    margin-left: 2rem;
+}
+.footerLogo p{
+    color: white;
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+
+
+
+.lowerFooter p{
+    color: white;
+    font-size: 1rem;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0.7rem;
+    border-top: 1px solid white;
+}
+
+
+
+
+
+
+
+
