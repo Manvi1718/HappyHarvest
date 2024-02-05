@@ -1,6 +1,6 @@
 # Welcome to Happy Harvest🌾
 
-## Project Overview
+## Project Overvie
 
 Happy Harvest is a purpose-driven initiative aiming to combat food wastage at events and social gatherings. This project addresses the staggering issue of surplus food and redirects it to those in need through an innovative online platform.
 
