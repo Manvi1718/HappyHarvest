@@ -16,30 +16,56 @@ Happy Harvest efficiently packages surplus food for NGOs and orphanages, ensurin
 
   ## Project Glimpses
 
-   ### Home Page   
-   ![Home Page](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/27ead780-4df3-4df1-8cba-99b7372def82)
+### **WEBSITE**
 
-   Explore the heart of Happy Harvest, where our mission to combat food wastage and ensure food security comes to life.
+ **Home Page**
+![Home Page](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/27ead780-4df3-4df1-8cba-99b7372def82)
 
-   ### Login Page
-   ![Login Page](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/526e0c85-bcc8-44f5-b905-066aa09a4aa4)
+Explore the heart of Happy Harvest, where our mission to combat food wastage and ensure food security comes to life.
 
-   Securely access your account and be part of the journey to make a positive impact on the world.
+ **Login Page**
+![Login Page](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/526e0c85-bcc8-44f5-b905-066aa09a4aa4)
 
-   ### Donate Food
-   ![Donate Food](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/3db77be7-d8bb-41fc-a256-ea4f259b091b)
+Securely access your account and be part of the journey to make a positive impact on the world.
 
-   Contribute to reducing food wastage by donating food and supporting those in need.
+ **Donate Food**
+![Donate Food](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/3db77be7-d8bb-41fc-a256-ea4f259b091b)
 
-   ### Contact Us
-   ![Contact Us](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/e3d6c927-11ab-4bc6-88d1-a028c87c4d8a)
+Contribute to reducing food wastage by donating food and supporting those in need.
 
-   Connect with us through our Contact Us page, where we value your input, questions, and collaboration.
+ **Contact Us**
+![Contact Us](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/e3d6c927-11ab-4bc6-88d1-a028c87c4d8a)
 
-   ### About Us
-   ![About Us](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/d1ca1645-d304-484c-a25c-5e4bb3fd3870)
+Connect with us through our Contact Us page, where we value your input, questions, and collaboration.
 
-   Discover the roots of Happy Harvest, our mission, and the team working passionately to create a world without hunger.
+ **About Us**
+![About Us](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/d1ca1645-d304-484c-a25c-5e4bb3fd3870)
+
+Discover the roots of Happy Harvest, our mission, and the team working passionately to create a world without hunger.
+
+### **Figma Designs**
+
+![Design 1](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/86468844-6fd1-41b9-96e2-e4982c83ad3c)
+
+![Design 2](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/2ee92e98-1e3f-43c8-a48f-7a3043898f9f)
+
+![Design 3](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/7f14acba-b246-42a0-aea4-e68f19523c79)
+
+![Design 4](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/06e383b8-7a88-4baf-960d-11cec754b021)
+
+![Design 5](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/45016c46-a727-4431-9d23-04a483049bbc)
+
+![Design 6](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/183968f3-0283-423f-aa56-0beaa653cd51)
+
+![Design 7](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/5ccfb32b-9a39-4377-80be-7b1330b18f59)
+
+![Design 8](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/e491311f-7d27-49ac-862b-7868ee39b2cb)
+
+![Design 9](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/ea538521-a5d5-4f1f-9b06-d9c675288e79)
+
+![Design 10](https://github.com/Manvi1718/C0DES0UL-lih-/assets/122265219/5dd8f241-b202-469e-bbb0-52f5ccce9000)
+
+
 
 ## Project Structure
 
