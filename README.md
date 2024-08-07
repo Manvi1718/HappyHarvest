@@ -78,15 +78,8 @@ Discover the roots of Happy Harvest, our mission, and the team working passionat
 
 ## Getting Started
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/happy-harvest.git
-
+1. Clone this repository
 2) Navigate to the Project directory
-
-    ```bash
-    cd happy-harvest
 3)Open the index.html file in your preferred web browser to explore the website.
 
 ## How to Add Project Images
